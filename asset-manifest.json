@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/fem-age-calculator/static/css/main.1c13b1bd.css",
+    "main.js": "/fem-age-calculator/static/js/main.dfe61a8d.js",
+    "index.html": "/fem-age-calculator/index.html",
+    "static/media/icon-arrow.svg": "/fem-age-calculator/static/media/icon-arrow.76e952b1b427b84b83bd01f2f4822499.svg",
+    "main.1c13b1bd.css.map": "/fem-age-calculator/static/css/main.1c13b1bd.css.map",
+    "main.dfe61a8d.js.map": "/fem-age-calculator/static/js/main.dfe61a8d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1c13b1bd.css",
+    "static/js/main.dfe61a8d.js"
+  ]
+}
